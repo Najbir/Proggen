@@ -1,2 +1,2 @@
 # Proggen
-Proggen.txt Anil Civek, Kim Wotzka und Najbir Omar
+Proggen.txt Anil Cevik, Kim Wotzka und Najbir Omar
