@@ -8,14 +8,13 @@ package application;
  * Aus diesen Grund ist die Main-Methode hier nicht relevant.
  */
 
-
-	
+//
+//blub	
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.scene.Scene;
 import javafx.scene.layout.BorderPane;
-
-
+//blub
 public class Main extends Application {
 	@Override
 	public void start(Stage primaryStage) {
